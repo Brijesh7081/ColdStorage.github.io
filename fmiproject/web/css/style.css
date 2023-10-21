@@ -1,0 +1,70 @@
+//navbar starting
+
+.collapse ul li{
+
+    
+}
+.collapse ul li a{
+    color: white;
+    padding-left: 15px;
+}
+.collapse ul li:hover{
+    background-color:rosybrown;
+    border-radius: 5px;
+    border:1px #000;
+}
+    .collapse ul li a:hover{
+    color:purple;
+    font-size: large;
+}
+            .smi{
+       list-style-type:none;
+    }
+    .smi li{
+    display: inline-block;
+    color: white;
+    }
+    //footer starting
+   
+    .footer1{
+        list-style-type: none;
+        text-align: justify;
+    }
+    .footer1 li{
+        display: inline-block;
+        
+    }
+    .footer1 li a{
+     color: white;
+      text-decoration: none;
+      font-size: large;
+    }
+    .footer1 li a:hover{
+        color:red;
+        font-size:large;
+        padding-left: 10px;
+        
+    }
+    //product
+    .product ul li{
+        
+    }
+    .product ul li:hover{
+        color:red;
+        font-size: large;
+          padding-top: 5px;
+    }
+    .a{
+       background-color: orchid;
+       color:orchid;
+    }
+    .last:hover{
+        color:red;
+        text-size:large;
+    }
+   
+   
+    
+    //Adminhome.jsp Start=======
+    
+  
